@@ -31,3 +31,9 @@ Run the Bottle_server.py file and open the URI http://localhost:8080/ in a webse
 start time and end time and click enter. This will submit the query to the query processor in the back end and the 
 results will be displayed in the form of bar charts. Place all the files which are required from Step 1 to Step 4 in 
 the same folder.
+
+## Contact
+
+[![Sudeep Reddy Eleti](https://s.gravatar.com/avatar/a48e3b49c8c1dbe4b1d5128493ee6fa3?s=80)](https://github.com/SRELETI)
+
+[Sudeep Reddy Eleti](https://github.com/SRELETI)
